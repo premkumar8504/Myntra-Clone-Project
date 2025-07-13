@@ -1,2 +1,2 @@
-# Myntra Clone App
+# Myntra Clone
 This is myntra clone website.
