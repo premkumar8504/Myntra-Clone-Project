@@ -1,1 +1,2 @@
-This is my first project by using html and css.
+# Myntra Clone App
+This is myntra clone website.
